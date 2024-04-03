@@ -1,2 +1,5 @@
-print("Hello Git and Github")
-print("Second line of code")
+# Q1 Answer
+x = 42
+y = 55
+
+# Finished all questions
